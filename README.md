@@ -1,2 +1,2 @@
 # hello-world
-The 1st repo
+A bit tired of SEO. Now trying to learn JS, Node.js, React, Next.js.
